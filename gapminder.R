@@ -1,2 +1,5 @@
+# MY BIG ANALYSIS
 
-modified
+#subset the data
+
+# probably need som data to subset
